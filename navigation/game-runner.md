@@ -24,7 +24,7 @@ class CustomLevel {
         const height = gameEnv.innerHeight;
         const bgData = {
             name: 'alien_world',
-            src: path + "/images/gamebuilder/alien_planet.jpg",
+            src: path + "/images/about/miami.webp",
             pixels: { height: 600, width: 1000 }
         };
 
