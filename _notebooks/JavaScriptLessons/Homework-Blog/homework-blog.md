@@ -1,12 +1,10 @@
 ---
-toc: False 
 layout: post
-tailwind: True 
 title: JavaScript Homework Assignments
 description: A collection of JavaScript homework assignments. Click each link to view the full assignment on GitHub Pages.
-type: homework
 categories: [Assignments]
 permalink: /javascript-homework/
+Author: Matt
 ---
 
 ## Assignment Overview
