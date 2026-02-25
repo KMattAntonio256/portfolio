@@ -45,7 +45,7 @@ Hi! My name is Matt Antonio
     </a>
     <a href="{{site.baseurl}}//rock-paper-scissor/" style="text-decoration: none;">
         <div style="background-color: #ae00ffff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle
+            Rock Paper Scissors
         </div>
     </a>
 </div>
