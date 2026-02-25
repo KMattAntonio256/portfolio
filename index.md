@@ -43,6 +43,11 @@ Hi! My name is Matt Antonio
             Turtle
         </div>
     </a>
+    <a href="{{site.baseurl}}//rock-paper-scissor/" style="text-decoration: none;">
+        <div style="background-color: #ae00ffff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Turtle
+        </div>
+    </a>
 </div>
 
 <br>
