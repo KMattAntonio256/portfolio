@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: BKey Accomplishments
+title: Key Accomplishments
 description: A reflection of this trimester 
 permalink: /keyaccomplishments
 author: Matt Antonio
